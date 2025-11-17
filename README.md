@@ -1,5 +1,5 @@
-[![GitHub top language] Assembly] (https://github.com/bkdevel/stultDOS/blob/master/makefile)
-[![GitHub license] LICENSE]  (https://github.com/bkdevel/stultDOS/blob/master/LICENSE)
+[![GitHub top language] Assembly] (https://github.com/bkdevel/stultDOS/blob/master/makefile)]
+[![GitHub license] LICENSE]  (https://github.com/bkdevel/stultDOS/blob/master/LICENSE)]
 
 
 # stultDOS
