@@ -14,6 +14,10 @@ stultDOS will be a DOS (Disk Operating System) running in 16-bit real mode.
 - [ ] a basic shell
 - [ ] a few userspace programs
 
+## Building
+Building should work on any UNIX-like OS. If you are on Windows try WSL, idk if it works (no idea why one would use Windows anyways).
+
+These tools are required as of now: nasm, some make tool (i prefer bmake), dosfstools, mtools
 
 ## Credits
 [Bootloader](https://github.com/nanobyte-dev/nanobyte_os/blob/videos/part2/src/bootloader/boot.asm) by nanobyte - will make my own later on
