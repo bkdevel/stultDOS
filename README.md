@@ -19,5 +19,8 @@ Building should work on any UNIX-like OS. If you are on Windows try WSL, idk if 
 
 These tools are required as of now: nasm, some make tool (i prefer bmake), dosfstools, mtools
 
+Run this command to build the Floppy-image: `make clean image`
+Run the codse using quemu (ignore the warning): `make run`
+
 ## Credits
 [Bootloader](https://github.com/nanobyte-dev/nanobyte_os/blob/videos/part2/src/bootloader/boot.asm) by nanobyte - will make my own later on
