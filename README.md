@@ -16,4 +16,4 @@ stultDOS will be a DOS (Disk Operating System) running in 16-bit real mode.
 
 
 ## Credits
-[Bootloader](https://github.com/nanobyte-dev/nanobyte_os/blob/videos/part2/src/bootloader/boot.asm) - will make my own later on
+[Bootloader](https://github.com/nanobyte-dev/nanobyte_os/blob/videos/part2/src/bootloader/boot.asm) by nanobyte - will make my own later on
