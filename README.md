@@ -19,7 +19,7 @@ Building should work on any UNIX-like OS. If you are on Windows try WSL, idk if 
 
 These tools are required as of now: nasm, some make tool (i prefer bmake), dosfstools, mtools
 
-Run this command to build the Floppy-image: `make clean image`
+Run this command to build the Floppy-image: `make clean image` </br>
 Run the codse using quemu (ignore the warning): `make run`
 
 ## Credits
